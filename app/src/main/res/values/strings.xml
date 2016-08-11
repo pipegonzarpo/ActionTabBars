@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActionBarTabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pestana1">fragmento 1</string>
+    <string name="pestana2">fragmento 2</string>
+    <string name="pestana3">fragmento 3</string>
+    <string name="fragmento1"> este es oficialmente el primer fragmento jdfgudfhgoiudhfogihfdighjdfoighdghdoifghdfgihdfoiguhdpfiugh</string>
+    <string name="fragmento2"> este es oficialmente el segundo fragmentouiohd fg dfg oiereoh ertohre  eigoirgjt oijdfg io  fi</string>
+    <string name="fragmento3"> este es oficialmente el tercero fragmentojdhhhhhhhhhhhhhhh h h h h h h h h h h h h h h h h h h h h h</string>
+</resources>
